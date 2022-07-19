@@ -3,10 +3,19 @@ import createFeed from "./src/Feed/controller.js";
 import bodyParser from "body-parser";
 import mysql from "mysql";
 import 'dotenv/config'
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
 
 const jsonParser = bodyParser.json()
 const app = express()
 console.log(process.env.DB_USER)
+app.use("/videos", express.static(__dirname + "/videos"))
+app.use("/sub", express.static(__dirname + "/sub"))
+
 
 // app.post('/create-feed',jsonParser, function (req, res) { 
 //   createFeed(req, res)
@@ -46,7 +55,7 @@ console.log(process.env.DB_USER)
 //  })
 
 app.post('/create-feed',jsonParser, function (req, res) { 
-  createFeed(req, res)
+  createFeed(req, res,__dirname)
  })
 
 app.get('/',jsonParser, function (req, res) { 
