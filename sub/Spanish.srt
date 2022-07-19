@@ -1,0 +1,216 @@
+1
+00:00:00,000 --> 00:00:05,900
+Por qué no nos describe, lo más vívido posible, ¿Qué es lo que le angustia?
+
+2
+00:00:05,900 --> 00:00:08,980
+¿Cómo se ve ese espantoso escenario?
+
+3
+00:00:10,200 --> 00:00:14,140
+Afortunadamente, son pocas, y la mayoría de baja probabilidad
+
+4
+00:00:14,140 --> 00:00:21,420
+Una gran erupción volcánica, un gran terremoto/asteroide
+
+5
+00:00:23,240 --> 00:00:27,060
+Al menos en el caso nuclear, se puede decir que nos lo tomamos muy enserio
+
+6
+00:00:27,060 --> 00:00:30,920
+Se tiene mucho presupuesto. Se tiene mucha gente que piensa en la disuasión nuclear
+
+7
+00:00:31,700 --> 00:00:33,860
+Me alegra mucho que se trabaje en ello
+
+8
+00:00:33,860 --> 00:00:38,860
+Y estimo que la probabilidad de una guerra nuclear en mi tiempo de vida es muy bajo
+
+9
+00:00:38,860 --> 00:00:43,520
+Estimo que las posibilidades de la propagación de una epidemia pero que el ébola
+
+10
+00:00:43,520 --> 00:00:46,160
+en mi tiempo de vida sea mayor al 50%
+
+11
+00:00:50,680 --> 00:00:55,020
+Si vemos  al siglo 21 y vemos la tabla de muertes
+
+12
+00:00:55,500 --> 00:00:59,100
+Creo que cualquiera diría que debe de haber una cumbre de la Gran Guerra
+
+13
+00:00:59,100 --> 00:01:02,460
+Sin problemas hay unos 25 millones
+
+14
+00:01:02,460 --> 00:01:04,379
+y debe de haber una gran cumbre de la Segunda Guerra Mundial
+
+15
+00:01:04,379 --> 00:01:06,560
+donde hay alrededor de 65 millones
+
+16
+00:01:06,560 --> 00:01:12,040
+Pero luego ves esa gran cumbre que tan grande como el de la Segunda Guerra Mundial
+
+17
+00:01:12,040 --> 00:01:15,160
+justo depúes de la Gran Guerra  y donde mucha gente diría
+
+18
+00:01:15,160 --> 00:01:17,040
+"Espera ¿Qué?; ¿Qué fue eso?"
+
+19
+00:01:19,520 --> 00:01:24,420
+Hay dos tipos de gripe, las hay que se propaga efectivamente en los humanos
+
+20
+00:01:24,420 --> 00:01:27,000
+y las gripes que matan a muchas personas.
+
+21
+00:01:27,000 --> 00:01:35,780
+Esas dos propiedades solo se han combinado en una sola de amplia propagación, una vez en la historia
+
+22
+00:01:36,180 --> 00:01:39,980
+Esa es la Influeza Española. No sabemos de donde vino
+
+23
+00:01:39,980 --> 00:01:44,300
+Se le llama la Influenza española porque fue la prensa española
+
+24
+00:01:44,300 --> 00:01:46,100
+en hablar abiertamente sobre ella
+
+25
+00:01:46,920 --> 00:01:51,120
+y así en los annales de las epidemias en la historia, es el gran evento.
+
+26
+00:01:53,020 --> 00:01:56,800
+Fundé un grupo de modelado de afecciones que usa simulación por computadora
+
+27
+00:01:56,800 --> 00:02:02,720
+Y ese trabajo ha sido fenomenal en localizar los recursos para la erradicación del polio
+
+28
+00:02:02,720 --> 00:02:06,180
+como en qué partes de Nigeria se necesita más trabajo
+
+29
+00:02:06,920 --> 00:02:09,259
+Es muy natural si tienes un grupo como ese decir
+
+30
+00:02:09,259 --> 00:02:13,440
+que miren a algo parecido a la Influenza Española en la actualidad
+
+31
+00:02:14,040 --> 00:02:17,960
+Los sistemas de salud han mejorado y se puede pensar que no está mal
+
+32
+00:02:17,960 --> 00:02:21,600
+Bueno, se intentó. Pero hay asunciones que se deben hacer
+
+33
+00:02:21,600 --> 00:02:26,380
+pero lo que mostramos es la fueza de la infección debida al transporte moderno
+
+34
+00:02:26,380 --> 00:02:30,600
+que comparado con 1918 es 50 veces mejor
+
+35
+00:02:30,600 --> 00:02:36,300
+Y si consigues algo como la Influenza Española y ves como en el mapa dentro de días
+
+36
+00:02:36,300 --> 00:02:40,760
+está basicamente en todos los centros urbanos alrededor de todo el globo
+
+37
+00:02:41,380 --> 00:02:44,980
+Eso es muy esclarecedor
+
+38
+00:02:44,980 --> 00:02:48,140
+eso no pasó con la influenza española en el pasado
+
+39
+00:02:54,880 --> 00:03:02,520
+La oportunidad de hacer algo más que solo dejarla correr está en realidad en la última década
+
+40
+00:03:02,520 --> 00:03:05,740
+básicamente, cuando hablas de drogas, puedes hablar de pequeñas moléculas o hablar
+
+41
+00:03:05,740 --> 00:03:11,440
+o esas cosas complejas biológicas que son una subclase llamada anticuerpos
+
+42
+00:03:11,820 --> 00:03:16,740
+Los anticuerpos son las moléculas que el sistema inmune crea naturalmente para atacar la enfermedad
+
+43
+00:03:16,740 --> 00:03:21,600
+La idea de que hoy alguien diga "Oh, aqúi hay un anticuerpo, hagan muchos y háganlos rápidos"
+
+44
+00:03:21,600 --> 00:03:23,720
+ese está en línea de lo inovador
+
+45
+00:03:23,720 --> 00:03:29,020
+Y el ébola me mostró que nos estamos listos para una seria epidemia
+
+46
+00:03:29,020 --> 00:03:34,160
+Una epidemia que se más infecciosa y se propague más rápido que el ébola
+
+47
+00:03:34,160 --> 00:03:38,180
+Este es el gran riesgo de una gran tragedia
+
+48
+00:03:38,180 --> 00:03:44,980
+Esto es lo más, probable por mucho, que mate a más de 10 millones de personas en un año
+
+49
+00:03:44,980 --> 00:03:49,340
+No necesitamos invertir ni cerca de lo que se invierte en preparación militar
+
+50
+00:03:50,180 --> 00:03:58,220
+Esto es algo donde menos de mil millones al año en investigación y desarrollo, atención médica, personal
+
+51
+00:03:58,220 --> 00:04:02,800
+O militares entrenado que puedan tener influencia en términos de logística.
+
+52
+00:04:02,800 --> 00:04:08,100
+Esto se puede hacer y puede que no recibamos más advertencias como estas para decir
+
+53
+00:04:08,100 --> 00:04:14,820
+bien, es una inversión muy modesta para evitar que, en términos de la condición humana,
+
+54
+00:04:14,820 --> 00:04:16,820
+sea una gran caida.
+
