@@ -49,7 +49,9 @@ app.post('/create-feed',jsonParser, function (req, res) {
   createFeed(req, res)
  })
 
-
+app.get('/',jsonParser, function (req, res) { 
+  res.send("hello") 
+ })
 
 
 
