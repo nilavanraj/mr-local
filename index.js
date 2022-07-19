@@ -59,9 +59,9 @@ app.use("/sub", express.static(__dirname + "/sub"))
 //  })
 
 app.get('/feed',jsonParser, function (req, res) { 
-  createFeed(req, res,__dirname)
+  createFeed(req, res)
  })
- 
+
 app.get('/',jsonParser, function (req, res) { 
   res.send("hello") 
  })
