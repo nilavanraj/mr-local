@@ -54,10 +54,14 @@ app.use("/sub", express.static(__dirname + "/sub"))
 //   });
 //  })
 
-app.post('/create-feed',jsonParser, function (req, res) { 
+// app.post('/create-feed',jsonParser, function (req, res) { 
+//   createFeed(req, res,__dirname)
+//  })
+
+app.get('/feed',jsonParser, function (req, res) { 
   createFeed(req, res,__dirname)
  })
-
+ 
 app.get('/',jsonParser, function (req, res) { 
   res.send("hello") 
  })
