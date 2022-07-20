@@ -1,0 +1,404 @@
+[
+    {
+        "id": 1,
+        "start": 0.08,
+        "end": 3.7199999999999998,
+        "text": "Ezra Klein:  why don't you describe for me as vividly as you can"
+    },
+    {
+        "id": 2,
+        "start": 4.26,
+        "end": 9.02,
+        "text": "what it is you're worried about. what it is nightmare scenario looks like?"
+    },
+    {
+        "id": 3,
+        "start": 9.32,
+        "end": 13.06,
+        "text": "Bill Gates: Fortunately, there's very few things and most of them are very low"
+    },
+    {
+        "id": 4,
+        "start": 13.07,
+        "end": 14.17,
+        "text": "probability"
+    },
+    {
+        "id": 5,
+        "start": 14.17,
+        "end": 17.99,
+        "text": "some big volcanic explosion"
+    },
+    {
+        "id": 6,
+        "start": 17.99,
+        "end": 21.789,
+        "text": "A giant earthquake, asteroid"
+    },
+    {
+        "id": 7,
+        "start": 22.78,
+        "end": 24.8,
+        "text": "At least in the nuclear case"
+    },
+    {
+        "id": 8,
+        "start": 24.81,
+        "end": 29.09,
+        "text": "you gotta say we take it quite seriously. We budget a lot of money, have a lot of"
+    },
+    {
+        "id": 9,
+        "start": 29.09,
+        "end": 31.269,
+        "text": "people who think about nuclear deterrence,"
+    },
+    {
+        "id": 10,
+        "start": 31.269,
+        "end": 34.601,
+        "text": "I'm very glad that works being done and"
+    },
+    {
+        "id": 11,
+        "start": 34.61,
+        "end": 38.73,
+        "text": "I rate the chance of a nuclear war in my lifetime has being fairly low."
+    },
+    {
+        "id": 12,
+        "start": 39.44,
+        "end": 43.82,
+        "text": "I rate the chance of a widespread epidemic far worse than Ebola"
+    },
+    {
+        "id": 13,
+        "start": 43.829,
+        "end": 47.169,
+        "text": "in my lifetime as well over 50 percent."
+    },
+    {
+        "id": 14,
+        "start": 50.64,
+        "end": 53.74,
+        "text": "If we look at the 20th Century, and we look at the death chart"
+    },
+    {
+        "id": 15,
+        "start": 53.74,
+        "end": 57.59,
+        "text": "of the 20th Century, I think everybody would say oh yeah there must be a spike"
+    },
+    {
+        "id": 16,
+        "start": 57.59,
+        "end": 59.1,
+        "text": "from World War I"
+    },
+    {
+        "id": 17,
+        "start": 59.1,
+        "end": 62.41,
+        "text": "and you know sure enough there it is like 25 million"
+    },
+    {
+        "id": 18,
+        "start": 62.41,
+        "end": 66.56,
+        "text": "and I must be a big spike for World War II, and there it is – like 65 million"
+    },
+    {
+        "id": 19,
+        "start": 66.56,
+        "end": 69.61,
+        "text": "but then you'll see this other spike that"
+    },
+    {
+        "id": 20,
+        "start": 69.61,
+        "end": 74.41,
+        "text": "is as large as World War II, right after World War I – and most people, a lot"
+    },
+    {
+        "id": 21,
+        "start": 74.41,
+        "end": 77.47,
+        "text": "of people say what?  Wait a minute – what was that?"
+    },
+    {
+        "id": 22,
+        "start": 79.54,
+        "end": 81.3,
+        "text": "There's two kinds of flus:"
+    },
+    {
+        "id": 23,
+        "start": 81.3,
+        "end": 84.3,
+        "text": "There's flus that spread between humans very effectively"
+    },
+    {
+        "id": 24,
+        "start": 84.3,
+        "end": 88.91,
+        "text": "and there's flus that kill lots of people. And those two properties have"
+    },
+    {
+        "id": 25,
+        "start": 88.92,
+        "end": 90.64,
+        "text": "only been combined"
+    },
+    {
+        "id": 26,
+        "start": 91.5,
+        "end": 93.9,
+        "text": "I into a widespread flu"
+    },
+    {
+        "id": 27,
+        "start": 93.9,
+        "end": 98.02,
+        "text": "once in history.  That is Spanish Flu."
+    },
+    {
+        "id": 28,
+        "start": 98.04,
+        "end": 101.48,
+        "text": "We have no idea where it came from  – it's called the Spanish flu"
+    },
+    {
+        "id": 29,
+        "start": 101.5,
+        "end": 103.72,
+        "text": "because the Spanish press was the freest,"
+    },
+    {
+        "id": 30,
+        "start": 103.84,
+        "end": 106.88,
+        "text": "they were the first to talk openly about it."
+    },
+    {
+        "id": 31,
+        "start": 106.88,
+        "end": 111.16,
+        "text": "and so in the annals of epidemic history that's the big event."
+    },
+    {
+        "id": 32,
+        "start": 112.68,
+        "end": 116.74,
+        "text": "I funded a disease modeling group that uses computer simulation"
+    },
+    {
+        "id": 33,
+        "start": 116.74,
+        "end": 120.03,
+        "text": "and that work has been phenomenal in helping us"
+    },
+    {
+        "id": 34,
+        "start": 120.03,
+        "end": 124.95,
+        "text": "target our polio eradication resources – which parts of nigeria should we"
+    },
+    {
+        "id": 35,
+        "start": 124.95,
+        "end": 129.619,
+        "text": "work harder on? And it's very natural if you have a group like that to say hey"
+    },
+    {
+        "id": 36,
+        "start": 129.619,
+        "end": 133.47,
+        "text": "look at something like the Spanish flu in the modern day."
+    },
+    {
+        "id": 37,
+        "start": 133.47,
+        "end": 137.87,
+        "text": "Health systems are far better and so you'd think, hey that wouldn't be very bad."
+    },
+    {
+        "id": 38,
+        "start": 137.9,
+        "end": 143.22,
+        "text": "Well, we tried it –  and there are some assumptions we had to make – but what we showed is that the"
+    },
+    {
+        "id": 39,
+        "start": 143.22,
+        "end": 146.52,
+        "text": "force of infection, because modern transport"
+    },
+    {
+        "id": 40,
+        "start": 146.53,
+        "end": 150.62,
+        "text": "which be compared to 1918 is over fifty times as great,"
+    },
+    {
+        "id": 41,
+        "start": 150.62,
+        "end": 154.44,
+        "text": "if you get something like the [Spanish] flu and you look at that map"
+    },
+    {
+        "id": 42,
+        "start": 154.44,
+        "end": 158.06,
+        "text": "of how within days it's basically"
+    },
+    {
+        "id": 43,
+        "start": 158.06,
+        "end": 161.23,
+        "text": "in all urban centers of the entire globe"
+    },
+    {
+        "id": 44,
+        "start": 161.23,
+        "end": 164.93,
+        "text": "That is very, uh, eye-opening."
+    },
+    {
+        "id": 45,
+        "start": 164.94,
+        "end": 168.1,
+        "text": "that didn't happen with Spanish flu in the past."
+    },
+    {
+        "id": 46,
+        "start": 174.62,
+        "end": 178.16,
+        "text": "The opportunity in did do more than just"
+    },
+    {
+        "id": 47,
+        "start": 178.17,
+        "end": 182.489,
+        "text": "let it run its course is really only in the last decade"
+    },
+    {
+        "id": 48,
+        "start": 182.489,
+        "end": 186.28,
+        "text": "basically when you talk about drugs, you can talk about small molecules or you can talk about"
+    },
+    {
+        "id": 49,
+        "start": 186.28,
+        "end": 186.76,
+        "text": "these"
+    },
+    {
+        "id": 50,
+        "start": 186.76,
+        "end": 191.53,
+        "text": "complex biological protein like things which is a subclass called antibodies"
+    },
+    {
+        "id": 51,
+        "start": 191.53,
+        "end": 196.75,
+        "text": "antibodies are the molecules the immune system naturally builds to attack disease"
+    },
+    {
+        "id": 52,
+        "start": 196.75,
+        "end": 199.81,
+        "text": "Today, the idea that somebody says oh here's an antibody"
+    },
+    {
+        "id": 53,
+        "start": 199.81,
+        "end": 203.819,
+        "text": "make a lot of it made it very quickly that's right on the cutting edge."
+    },
+    {
+        "id": 54,
+        "start": 203.819,
+        "end": 207.7,
+        "text": "and the Ebola epidemic showed me that we're not ready"
+    },
+    {
+        "id": 55,
+        "start": 207.7,
+        "end": 212.26,
+        "text": "for a serious epidemic. An epidemic that would be more infectious and would spread faster"
+    },
+    {
+        "id": 56,
+        "start": 212.43,
+        "end": 216.219,
+        "text": "than Ebola did. This is the greatest risk"
+    },
+    {
+        "id": 57,
+        "start": 216.219,
+        "end": 220.879,
+        "text": "have a huge tragedy. This is the most likely thing by far"
+    },
+    {
+        "id": 58,
+        "start": 220.879,
+        "end": 224.04,
+        "text": "to kill over 10 million excess people"
+    },
+    {
+        "id": 59,
+        "start": 224.04,
+        "end": 227.859,
+        "text": "in a year. We don't need to invest nearly what we do"
+    },
+    {
+        "id": 60,
+        "start": 227.859,
+        "end": 231.459,
+        "text": "in military preparedness. this is something where"
+    },
+    {
+        "id": 61,
+        "start": 231.46,
+        "end": 236.109,
+        "text": "less than a billion a year on R&D, medical surveillance,"
+    },
+    {
+        "id": 62,
+        "start": 236.109,
+        "end": 240.79,
+        "text": "on standby personnel, cross-training the military so they can play a role in"
+    },
+    {
+        "id": 63,
+        "start": 240.79,
+        "end": 243.949,
+        "text": "terms of all the logistics here. This can be done"
+    },
+    {
+        "id": 64,
+        "start": 243.949,
+        "end": 247.09,
+        "text": "and we may not get many more warnings like this one"
+    },
+    {
+        "id": 65,
+        "start": 247.09,
+        "end": 250.599,
+        "text": "to to say okay it's a pretty modest investment"
+    },
+    {
+        "id": 66,
+        "start": 250.599,
+        "end": 255.54,
+        "text": "to avoid something that, really, in terms of the human condition would be a"
+    },
+    {
+        "id": 67,
+        "start": 255.54,
+        "end": 257.389,
+        "text": "gigantic setback."
+    }
+]

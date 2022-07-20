@@ -6,15 +6,15 @@ res.send([{
     video:`/videos/What-Bill-Gates-is-afraid-of.mkv`,
     sub:[{
         lang:"English",
-        path:"/sub/English.srt"
+        path:"/sub/English.json"
     },
     {
         lang:"German",
-        path:"/sub/German.srt"
+        path:"/sub/German.json"
     },
     {
         lang:"Spanish",
-        path:"/sub/Spanish.srt"
+        path:"/sub/Spanish.json"
     }]
 }]) 
 }
