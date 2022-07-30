@@ -18,7 +18,7 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }} 
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ap-south-1
+          aws-region: us-east-1
       - name: npm install
         env:
           CI: true
@@ -27,4 +27,4 @@ jobs:
       - name: deploy
         run: |
           zip -j deploy.zip ./* #--> Zip the Code As we know lambda function accept the zip file.
-          aws lambda update-function-code --function-name=local-backend-action --zip-file=fileb://deploy.zip
+          aws lambda update-function-code --function-name=local-backend --zip-file=fileb://deploy.zip
